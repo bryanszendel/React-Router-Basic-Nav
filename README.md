@@ -30,7 +30,7 @@ Topics:
 * [X] Inside of your `App.js` file `import { Route } from 'react-router-dom';`
 * [X] This is where we're going to declare and specify our router.
 * Create 3 `<Route />` setting their `path` prop equal to `/`, `/about`, `/contact` with their respective components.
-* Be sure to incluce the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
+* [X] Be sure to incluce the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
 
 ### Steps for setting up your Navigation
 
@@ -42,3 +42,5 @@ Topics:
 
 * [Code Sandbox from Lecture](https://codesandbox.io/s/n58oqgwmP)
 * [React Router 4 Quick Start Guide](https://reacttraining.com/react-router/web/guides/quick-start)
+
+<!-- MVP COMPLETE -->
